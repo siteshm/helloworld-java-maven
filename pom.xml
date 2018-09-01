@@ -40,14 +40,14 @@
   
 <distributionManagement>
     <repository>
-        <id>bf25c3ac0cd4</id>
-        <name>bf25c3ac0cd4-releases</name>
-        <url>http://13.233.28.211:8085/artifactory/nokia</url>
+        <id>NexusRepo</id>
+        <name>NexusRepo-releases</name>
+        <url>http://18.216.202.232:8081/nexus/content/repositories/NexusRepo/</url>
     </repository>
     <snapshotRepository>
-        <id>bf25c3ac0cd4</id>
-        <name>bf25c3ac0cd4-snapshots</name>
-        <url>http://13.233.28.211:8085/artifactory/nokia</url>
+        <id>NexusRepoSnap</id>
+        <name>NexusRepo-snapshots</name>
+        <url>http://18.216.202.232:8081/nexus/content/repositories/NexusRepoSnap/</url>
     </snapshotRepository>
 </distributionManagement>
 
